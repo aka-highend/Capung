@@ -1,2 +1,2 @@
 # Capung
-Python implementation on firefly algorithm
+A sample code for firefly algorithm implementation
